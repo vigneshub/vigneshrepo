@@ -1,0 +1,22 @@
+#div2{
+	border: 15px solid #bfbbb0;
+	font-family: source sans pro;
+	padding:20px;
+	}
+	#div1{
+	height: 100%;
+	width:50%;	
+	padding:0 25% 0 25%;
+	}
+	.date{
+	color:#87ceeb;
+	letter-spacing:3px;
+	text-transform:Uppercase;
+	}
+	h2{
+	text-transform:capitalize;
+	}
+	.lineparag{
+	border-left: 4px solid #bfbbb0;
+	padding-left:5px;
+	}
