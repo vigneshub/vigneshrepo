@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	text-decoration-color: pink;
+}
+
+.vertical{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.horizontal{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+td{
+	width:100px;
+	height:100px;
+	color: blue;
+}
+
+table{
+	margin:auto;
+}
+/*#th1{
+border: 5px solid black;
+}*/
+
